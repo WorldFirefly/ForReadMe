@@ -3,4 +3,4 @@ Adding gif file for profile readme
 
 ## My GIF
 ---
-![firefly](https://github.com/user-attachments/assets/9c727f69-f7a4-4a38-8c6e-1029660ad743)
+![giphy](https://github.com/user-attachments/assets/ac388e12-bcb1-4fcf-82ba-f3561273c30a)
